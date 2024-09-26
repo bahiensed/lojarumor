@@ -6504,7 +6504,7 @@ payload-admin-bar@^1.0.6:
   resolved "https://registry.yarnpkg.com/payload-admin-bar/-/payload-admin-bar-1.0.6.tgz#ca25e369a4f319c3d61ff3db4021c1c2fd9d0148"
   integrity sha512-hpQdOiPq4LpWTkbuAnvxDf5wQ2ysMp9kQt+X2U+FfvBwD1U6qoxJfmUymG1OjLlaZzCZ93FlOdTl4u4Z0/m/SA==
 
-payload@^2.0.0:
+payload@^2.29.0:
   version "2.29.0"
   resolved "https://registry.yarnpkg.com/payload/-/payload-2.29.0.tgz#1645c700cbf5148d4aa74a382b7f934d8e8f08be"
   integrity sha512-skjdNbp0RloE0vlYowd9aS7stZdg3VONH0t6feIWPsuuiB1kEJWT7h+sN++5ALlkMM8Cs1h0xtYMtnKVGIWTyA==
